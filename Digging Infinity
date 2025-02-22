@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Versão inicial do Digging Infinity"
+git branch -M main  # Renomeia o branch para 'main' se ainda não for
+git remote add origin https://github.com/seu-usuario/seu-projeto.git
+git push -u origin main
